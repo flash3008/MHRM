@@ -1,6 +1,0 @@
-##Usage:   >>> python main.py
-
-Specifically,
-main.py        main file
-utils.py       some funcations about data proprecessing
-models/BiMCNN  model with Bi-LSTM and Multi-scale CNN
